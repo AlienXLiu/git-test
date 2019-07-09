@@ -1,0 +1,7 @@
+diff --git a/dev_1.txt b/dev_1.txt
+index 765f521..8437c80 100644
+--- a/dev_1.txt
++++ b/dev_1.txt
+@@ -1 +1,2 @@
+ dev_1 branch create!
++dev_1 branch append !
